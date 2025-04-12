@@ -1,6 +1,6 @@
 <h1>
-    <a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags">
-     <img align="center" width="40px" src="https://www.alura.com.br/assets/api/cursos/html-css-ambiente-arquivos-tags.svg" target="_blank"></a>
+    <a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags" target="_blank">
+     <img align="center" width="40px" src="https://www.alura.com.br/assets/api/cursos/html-css-ambiente-arquivos-tags.svg"></a>
     <span>HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags</span>
 </h1>
 
